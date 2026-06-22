@@ -15,9 +15,9 @@ AI researcher, educator, and author with a convergence-engineering foundation ac
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/covers/01_genai.jpg" width="180" alt="생성형AI 활용 첫걸음"></td>
-    <td align="center" width="33%"><img src="assets/covers/02_gameai.jpg" width="180" alt="게임인공지능 첫걸음"></td>
-    <td align="center" width="33%"><img src="assets/covers/04_routing.jpg" width="180" alt="라우팅&스위칭 첫걸음"></td>
+    <td align="center" width="33%"><img src="assets/covers/01_genai.jpg" width="150" alt="생성형AI 활용 첫걸음"></td>
+    <td align="center" width="33%"><img src="assets/covers/02_gameai.jpg" width="150" alt="게임인공지능 첫걸음"></td>
+    <td align="center" width="33%"><img src="assets/covers/04_routing.jpg" width="150" alt="라우팅&스위칭 첫걸음"></td>
   </tr>
   <tr>
     <td align="center"><b>생성형AI 활용 첫걸음</b><br>개발자를 위한 입문서</td>
@@ -26,30 +26,17 @@ AI researcher, educator, and author with a convergence-engineering foundation ac
   </tr>
 </table>
 
-### 단행본 (Single Title)
+### 단행본 (Single Titles)
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/covers/03_paper.jpg" width="180" alt="AI 활용 논문작성법"></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td align="center" width="25%"><img src="assets/covers/03_paper.jpg" width="150" alt="AI 활용 논문작성법"></td>
+    <td align="center" width="25%"><img src="assets/covers/08_data.jpg" width="150" alt="데이터과학"></td>
+    <td align="center" width="25%"><img src="assets/covers/09_hello.jpg" width="150" alt="할로코드"></td>
+    <td align="center" width="25%"><img src="assets/covers/10_mbot.jpg" width="150" alt="Let's 자율주행 엠봇2"></td>
   </tr>
   <tr>
     <td align="center"><b>AI 활용 논문작성법</b><br>학위논문에서 사업계획서까지</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### 공저 (Co-authored)
-
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="assets/covers/08_data.jpg" width="180" alt="데이터과학"></td>
-    <td align="center" width="33%"><img src="assets/covers/09_hello.jpg" width="180" alt="할로코드"></td>
-    <td align="center" width="33%"><img src="assets/covers/10_mbot.jpg" width="180" alt="Let's 자율주행 엠봇2"></td>
-  </tr>
-  <tr>
     <td align="center"><b>데이터과학</b><br>공저</td>
     <td align="center"><b>할로코드</b><br>공저</td>
     <td align="center"><b>Let's 자율주행 엠봇2</b><br>공저</td>
@@ -60,9 +47,9 @@ AI researcher, educator, and author with a convergence-engineering foundation ac
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/covers/05_vibe.jpg" width="180" alt="VIBE CODING"></td>
-    <td align="center" width="33%"><img src="assets/covers/06_llm.jpg" width="180" alt="LLM 애플리케이션 입문"></td>
-    <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="180" alt="BLOCKCHAIN"></td>
+    <td align="center" width="33%"><img src="assets/covers/05_vibe.jpg" width="150" alt="VIBE CODING"></td>
+    <td align="center" width="33%"><img src="assets/covers/06_llm.jpg" width="150" alt="LLM 애플리케이션 입문"></td>
+    <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="150" alt="BLOCKCHAIN"></td>
   </tr>
   <tr>
     <td align="center"><b>VIBE CODING</b><br>프롬프트에서 하네스까지</td>
