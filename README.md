@@ -11,30 +11,33 @@ AI specialist working across LLM applications, AI-blockchain convergence, comput
 
 부크크(Bookk)에서 출간한 인공지능 입문서와 교재.
 
-### 출간 (Published)
+### 첫걸음 시리즈 (First Steps Series)
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="assets/covers/01_genai.jpg" width="170" alt="생성형AI 활용 첫걸음"><br>
-      <b>생성형AI 활용 첫걸음</b><br>
-      개발자를 위한 입문서
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/covers/02_gameai.jpg" width="170" alt="게임인공지능 첫걸음"><br>
-      <b>게임인공지능 첫걸음</b><br>
-      게임 엔지니어를 위한 입문서
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/covers/03_paper.jpg" width="170" alt="AI 활용 논문작성법"><br>
-      <b>AI 활용 논문작성법</b><br>
-      학위논문에서 사업계획서까지
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/covers/04_routing.jpg" width="170" alt="라우팅&스위칭 첫걸음"><br>
-      <b>라우팅&스위칭 첫걸음</b><br>
-      데이터센터 엔지니어를 위한 입문서
-    </td>
+    <td align="center" width="33%"><img src="assets/covers/01_genai.jpg" width="180" alt="생성형AI 활용 첫걸음"></td>
+    <td align="center" width="33%"><img src="assets/covers/02_gameai.jpg" width="180" alt="게임인공지능 첫걸음"></td>
+    <td align="center" width="33%"><img src="assets/covers/04_routing.jpg" width="180" alt="라우팅&스위칭 첫걸음"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>생성형AI 활용 첫걸음</b><br>개발자를 위한 입문서</td>
+    <td align="center"><b>게임인공지능 첫걸음</b><br>게임 엔지니어를 위한 입문서</td>
+    <td align="center"><b>라우팅&스위칭 첫걸음</b><br>데이터센터 엔지니어를 위한 입문서</td>
+  </tr>
+</table>
+
+### 단행본 (Other Title)
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/covers/03_paper.jpg" width="180" alt="AI 활용 논문작성법"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI 활용 논문작성법</b><br>학위논문에서 사업계획서까지</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -42,22 +45,14 @@ AI specialist working across LLM applications, AI-blockchain convergence, comput
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="assets/covers/05_vibe.jpg" width="170" alt="VIBE CODING"><br>
-      <b>VIBE CODING</b><br>
-      프롬프트에서 하네스까지
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/covers/06_llm.jpg" width="170" alt="LLM 애플리케이션 입문"><br>
-      <b>LLM 애플리케이션 입문</b><br>
-      RAG에서 멀티에이전트까지
-    </td>
-    <td align="center" width="25%">
-      <img src="assets/covers/07_block.jpg" width="170" alt="BLOCKCHAIN"><br>
-      <b>BLOCKCHAIN</b><br>
-      비트코인에서 AI 에이전트까지
-    </td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="33%"><img src="assets/covers/05_vibe.jpg" width="180" alt="VIBE CODING"></td>
+    <td align="center" width="33%"><img src="assets/covers/06_llm.jpg" width="180" alt="LLM 애플리케이션 입문"></td>
+    <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="180" alt="BLOCKCHAIN"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>VIBE CODING</b><br>프롬프트에서 하네스까지</td>
+    <td align="center"><b>LLM 애플리케이션 입문</b><br>RAG에서 멀티에이전트까지</td>
+    <td align="center"><b>BLOCKCHAIN</b><br>비트코인에서 AI 에이전트까지</td>
   </tr>
 </table>
 
@@ -98,6 +93,7 @@ AI specialist working across LLM applications, AI-blockchain convergence, comput
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
