@@ -1,8 +1,10 @@
 # 이수미 (Sumi Lee), Ph.D.
 
-**AI·블록체인 융합 (AI-Blockchain Convergence) · LLM 애플리케이션 (LLM Applications) · AI 교육 (AI Education)**
+**AI·블록체인 융합 (AI-Blockchain Convergence) · LLM 애플리케이션 (LLM Applications) · 피지컬 AI·로보틱스 (Physical AI & Robotics) · AI 교육 (AI Education)**
 
-공학박사(Ph.D. in Convergence Engineering, AI 전공) · 배재대학교 (Pai Chai University) · 대전, 대한민국
+공학박사(Ph.D. in Convergence Engineering, AI 전공) · 배재대학교 게임공학전공 겸임교수 · 대전, 대한민국
+
+*AI researcher, educator, and author — building AI-blockchain convergence platforms and LLM applications, and extending convergence research into physical AI with ROS 2. Adjunct Professor at Pai Chai University, Republic of Korea.*
 
 📧 [sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · 🌐 [sumilee.com](https://www.sumilee.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · 🆔 [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · 🇰🇷 IRIS 연구자번호 12820277
 
@@ -10,12 +12,12 @@
 
 ## 🔬 연구 (Research Focus)
 
-**AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 연구합니다.
+**AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 중심으로 연구하며, 융합의 다음 단계로 **피지컬 AI(로보틱스·ROS 2)**를 다루고 있습니다.
 박사 연구로 지역 플랫폼 서비스 메인넷 **PAM-TALK**과 **ESG-GOLD**를 설계·구현했으며,
-RAG·에이전트 기반 LLM 응용과 교육용 시리어스 게임으로 연구를 확장하고 있습니다.
+RAG·에이전트 기반 LLM 응용, 교육용 시리어스 게임, ROS 2 기반 피지컬 AI 교육으로 연구를 확장하고 있습니다. (ROS 2 교재 집필 중)
 
-Research on **AI-blockchain convergence platforms** and **LLM applications** —
-mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, and serious games for AI education.
+Research on **AI-blockchain convergence platforms** and **LLM applications**, extending into **physical AI and robotics (ROS 2)** —
+mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, serious games for AI education, and embodied-AI education (ROS 2 textbook in progress).
 
 **추가 관심 분야 (Additional Areas):** 컴퓨터 비전·멀티모달 인식 · 게임공학·게임 AI (Unity·Unreal) · XR·메타버스 (Apple Vision Pro) · 데이터과학 · IoT·피지컬 컴퓨팅
 
@@ -96,9 +98,11 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, a
 <table>
   <tr>
     <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="150" alt="BLOCKCHAIN — 비트코인에서 AI 에이전트까지"></td>
+    <td align="center" width="33%">🤖</td>
   </tr>
   <tr>
     <td align="center"><b>BLOCKCHAIN</b><br>비트코인에서 AI 에이전트까지 (2026 출간 예정)</td>
+    <td align="center"><b>ROS 2 로보틱스</b> (가제)<br>피지컬 AI 시대의 로봇 프로그래밍 (집필 중)</td>
   </tr>
 </table>
 
