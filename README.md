@@ -6,11 +6,11 @@
 
 *AI researcher, educator, and author — building AI-blockchain convergence platforms and LLM applications, and extending convergence research into physical AI with ROS 2. Adjunct Professor at Pai Chai University, Republic of Korea.*
 
-📧 [sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · 🆔 [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · 🇰🇷 IRIS 연구자번호 12820277
+[sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · IRIS 연구자번호 12820277
 
 ---
 
-## 🔬 연구 (Research Focus)
+## 연구 (Research Focus)
 
 **AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 중심으로 연구하며, 융합의 다음 단계로 <b>피지컬 AI(로보틱스·ROS 2)</b>를 다루고 있습니다.
 박사 연구로 지역 플랫폼 서비스 메인넷 **PAM-TALK**과 **ESG-GOLD**를 설계·구현했으며,
@@ -23,7 +23,7 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 
 ---
 
-## 📄 논문 (Publications)
+## 논문 (Publications)
 
 ### 학위논문 (Dissertations)
 - **(Ph.D., 2026)** 인공지능-블록체인 융합 기반 지역 플랫폼 서비스 메인넷 구현: **PAM-TALK 및 ESG-GOLD** (Implementation of AI-Blockchain Convergence-based Regional Platform Service Mainnet: PAM-TALK and ESG-GOLD), 호서대학교 벤처대학원 융합공학과 인공지능전공 — [[RISS 링크]](#)
@@ -42,7 +42,7 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 
 ---
 
-## 📚 저서 (Books)
+## 저서 (Books)
 
 인공지능 입문서·대학 교재 10여 종 집필 (부크크 등 출간).
 
@@ -98,7 +98,7 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 <table>
   <tr>
     <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="150" alt="BLOCKCHAIN — 비트코인에서 AI 에이전트까지"></td>
-    <td align="center" width="33%">🤖</td>
+    <td align="center" width="33%">표지 준비 중</td>
   </tr>
   <tr>
     <td align="center"><b>BLOCKCHAIN</b><br>비트코인에서 AI 에이전트까지 (2026 출간 예정)</td>
@@ -108,7 +108,7 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 
 ---
 
-## 🎓 강의 (Teaching)
+## 강의 (Teaching)
 
 <table>
   <tr>
@@ -125,11 +125,11 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
   </tr>
 </table>
 
-**강의 자료 저장소:** [gameEngineering](https://github.com/sumilee-pcu/gameEngineering) · [gameAI](https://github.com/sumilee-pcu/gameAI) · [CPP_UnrealEngine_2026](https://github.com/sumilee-pcu/CPP_UnrealEngine_2026) · [streamlit-lecture-project-sample](https://github.com/sumilee-pcu/streamlit-lecture-project-sample) · [ROS2_2026](https://github.com/sumilee-pcu/ROS2_2026)
+**강의 자료 저장소:** [gameEngineering](https://github.com/sumilee-phd/gameEngineering) · [gameAI](https://github.com/sumilee-phd/gameAI) · [CPP_UnrealEngine_2026](https://github.com/sumilee-phd/CPP_UnrealEngine_2026) · [ROS2_2026](https://github.com/sumilee-phd/ROS2_2026) · [gameAI2026](https://github.com/sumilee-phd/gameAI2026)
 
 ---
 
-## 🛠 대표 프로젝트 (Featured Projects)
+## 대표 프로젝트 (Featured Projects)
 
 - **PAM-TALK** — AI·블록체인 융합 지역 플랫폼 서비스 메인넷 (박사 연구) — [저장소 링크](#)
 - **ESG-GOLD** — ESG 데이터 기반 블록체인 보상 플랫폼 (박사 연구) — [저장소 링크](#)
@@ -137,7 +137,7 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 
 ---
 
-## ⚙️ 기술 스택 (Skills)
+## 기술 스택 (Skills)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -147,10 +147,11 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 
 ---
 
-## 📊 GitHub
+## GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sumilee-pcu&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumilee-pcu&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sumilee-phd&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumilee-phd&layout=compact&hide_border=true)
