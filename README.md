@@ -155,3 +155,5 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, s
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sumilee-phd&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumilee-phd&layout=compact&hide_border=true)
+
+<!-- profile: sumilee-phd -->
